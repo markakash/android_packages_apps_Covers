@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2020 Project 404
+<!--
+     Copyright (C) 2020-2022 Project 404
+     Copyright (C) 2022 Pawel Czerwinski
+     Copyright (C) 2022 Bia Andrade
 
      Licensed under the GNU GPLv2 license
 
@@ -9,4 +12,21 @@
 
 <resources>
     <string name="app_name">404 Covers</string>
+
+    <!-- Bia Andrade's Collection -->
+    <string name="category_bia_andrade_walls">Made by Bia Andrade</string>
+    <string name="author_walls">Bia Andrade</string>
+    <string name="wallpaper_surreal_teal">Surreal Teal</string>
+    <string name="wallpaper_splashy_blue">Splashy Blue</string>
+
+    <!-- Pawel Czerwinski's Collection -->
+    <string name="category_pawel_czerwinski_walls">Made by Pawel Czerwinski</string>
+    <string name="author_walls">Pawel Czerwinski</string>
+    <string name="wallpaper_volcanic_core">Volcanic Core</string>
+    <string name="wallpaper_spiral_galaxy">Spiral Galaxy</string>
+    <string name="wallpaper_nebula_crust">Nebula Crust</string>
+    <string name="wallpaper_gold_capped">Gold Capped</string>
+    <string name="wallpaper_accentuate_hues">Accentuate Hues</string>
+    <string name="wallpaper_morphis_sharbat">Morphis Sharbat</string>
+    <string name="wallpaper_riverdale_swab">Riverdale Swab</string>
 </resources>

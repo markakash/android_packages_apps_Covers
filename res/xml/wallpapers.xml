@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020-2022 Project 404
+     Copyright (C) 2022 Pawel Czerwinski
+     Copyright (C) 2022 Bia Andrade
+
+     Licensed under the GNU GPLv2 license
+
+     The text of the license can be found in the LICENSE file
+     or at https://www.gnu.org/licenses/gpl-2.0.txt
+-->
+
+<resources>
+
+    <category id="Made by Bia Andrade"
+              title="@string/category_bia_andrade_walls"
+              featured="Surreal_Teal">
+
+        <static-wallpaper
+            id="Surreal_Teal"
+            src="@drawable/Surreal_Teal"
+            title="@string/wallpaper_surreal_teal"/>
+
+        <static-wallpaper
+            id="Splashy_Blue"
+            src="@drawable/Splashy_Blue"
+            title="@string/wallpaper_splashy_blue"/>
+    </category>
+
+    <category id="Made by Pawel Czerwinski"
+              title="@string/category_pawel_czerwinski_walls"
+              featured="Volcanic_Core">
+
+        <static-wallpaper
+            id="Volcanic_Core"
+            src="@drawable/Volcanic_Core"
+            title="@string/wallpaper_volcanic_core"/>
+
+        <static-wallpaper
+            id="Spiral_Galaxy"
+            src="@drawable/Spiral_Galaxy"
+            title="@string/wallpaper_spiral_galaxy"/>
+        
+        <static-wallpaper
+            id="Nebula_Crust"
+            src="@drawable/Nebula_Crust"
+            title="@string/wallpaper_nebula_crust"/>
+
+        <static-wallpaper
+            id="Gold_Capped"
+            src="@drawable/Gold_Capped"
+            title="@string/wallpaper_gold_capped"/>
+
+        <static-wallpaper
+            id="Accentuate_Hues"
+            src="@drawable/Accentuate_Hues"
+            title="@string/wallpaper_accentuate_hues"/>
+
+        <static-wallpaper
+            id="Morphis_Sharbat"
+            src="@drawable/Morphis_Sharbat"
+            title="@string/wallpaper_morphis_sharbat"/>
+
+        <static-wallpaper
+            id="Riverdale_Swab"
+            src="@drawable/Riverdale_Swab"
+            title="@string/wallpaper_riverdale_swab"/>
+    </category>
+
+</resources>
